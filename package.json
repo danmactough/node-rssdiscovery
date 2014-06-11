@@ -25,5 +25,16 @@
   },
   "devDependencies": {
     "mocha": "~1.20.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmactough/node-rssdiscovery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danmactough/node-rssdiscovery/issues"
+  },
+  "homepage": "https://github.com/danmactough/node-rssdiscovery"
 }
