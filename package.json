@@ -1,0 +1,29 @@
+{
+  "name": "rssdiscovery",
+  "version": "0.0.0",
+  "description": "Automatically find a site's RSS/Atom/RDF feed(s)",
+  "main": "discover.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "html",
+    "head",
+    "link",
+    "rel",
+    "feed",
+    "rss",
+    "atom",
+    "rdf"
+  ],
+  "author": "Dan MacTough <danmactough@gmail.com> (http://yabfog.com/)",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.36.0",
+    "htmlparser2": "~3.7.2",
+    "parse-http-header": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1"
+  }
+}
