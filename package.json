@@ -1,6 +1,6 @@
 {
   "name": "rssdiscovery",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Automatically find a site's RSS/Atom/RDF feed(s)",
   "main": "discover.js",
   "scripts": {
