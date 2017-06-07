@@ -19,12 +19,12 @@
   "author": "Dan MacTough <danmactough@gmail.com> (http://yabfog.com/)",
   "license": "BSD",
   "dependencies": {
-    "request": "~2.36.0",
-    "htmlparser2": "~3.7.2",
-    "parse-http-header": "0.0.1"
+    "request": "~2.81.0",
+    "htmlparser2": "~3.9.2",
+    "parse-http-header": "1.0.0"
   },
   "devDependencies": {
-    "mocha": "~1.20.1"
+    "mocha": "~3.4.2"
   },
   "directories": {
     "test": "test"
