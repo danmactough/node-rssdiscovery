@@ -1,5 +1,7 @@
 # RSS Discovery (node-rssdiscovery)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danmactough/node-rssdiscovery.svg)](https://greenkeeper.io/)
+
 Automatically find a site's RSS/Atom/RDF feed(s), given a url. The url is
 expected to be a link to an html page containing [RSS Autodiscovery](http://www.rssboard.org/rss-autodiscovery)
 links, but a link to the feed should work, too.
